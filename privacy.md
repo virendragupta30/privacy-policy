@@ -18,6 +18,7 @@ If you want to delete your activities for CrackTheInterview Login App, you can r
 
     Congratulations, you have succesfully removed your app activities.
 
+We are not saving any personal data in our server. You can send us mail appsfeedback30@gmail.com for any clarification.
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 

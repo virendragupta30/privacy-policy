@@ -16,3 +16,4 @@ If you want to delete your activities for CrackTheInterview Login App, you can r
 
 5. Congratulations, you have succesfully removed your app activities.
 
+We are not saving any personal data in our server. You can send us mail appsfeedback30@gmail.com for any clarification.

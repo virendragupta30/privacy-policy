@@ -1,18 +1,18 @@
-cracktheinterview Privacy Policy
+IT Mock Interview Career Coach Privacy Policy
 
 Facebook Data Deletion Instructions URL
 
 Facebook Data Deletion
 
-CrackTheInterview Login is a facebook login app and we do not save your personal data in our server. According to Facebook policy, we have to provide User Data Deletion Callback URL or Data Deletion Instructions URL.
+IT Mock Interview Career Coach Login is a facebook login app and we do not save your personal data in our server. According to Facebook policy, we have to provide User Data Deletion Callback URL or Data Deletion Instructions URL.
 
-If you want to delete your activities for CrackTheInterview Login App, you can remove your information by following these steps:
+If you want to delete your activities for IT Mock Interview Career Coach Login App, you can remove your information by following these steps:
 
     Go to your Facebook Account’s Setting & Privacy. Click “Settings”
 
     Look for “Apps and Websites” and you will see all of the apps and websites you linked with your Facebook.
 
-    Search and Click “DCrackTheInterview” in the search bar.
+    Search and Click “IT Mock Interview Career Coach” in the search bar.
 
     Scroll and click “Remove”.
 
@@ -132,7 +132,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-cracktheinterview
+IT Mock Interview Career Coach
 
 Koramangala, Bangalore, Karanataka 560034 India
 appsfeedback30@gmail.com
